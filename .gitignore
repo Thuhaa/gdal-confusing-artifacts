@@ -1,0 +1,6 @@
+data/outputs/
+.idea
+.env
+*.aux.xml
+Makefile
+Pipfile

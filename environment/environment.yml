@@ -1,0 +1,8 @@
+name: gdal-tests
+channels:
+  - conda-forge
+dependencies:
+  - gdal
+  - rasterio
+  - rio-cogeo
+  - numpy
